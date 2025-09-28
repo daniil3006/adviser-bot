@@ -1,0 +1,16 @@
+# Бинарники Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+*.log
+*.tmp
+
+.idea/
+.vscode/
+
+files_storage/
